@@ -1,0 +1,33 @@
+{
+ "accounts": [
+  {
+   "name": "nitro",
+   "price": 33000,
+   "tax": 34737,
+   "emails": [
+    "https://discord.com/billing/promotions/YHk2JDbEJzAbXHAUT6FwnzTG",
+    "https://discord.com/billing/promotions/YV3qgCM9mbABz3qeGQVwHxwq",
+    "https://discord.com/billing/promotions/YVrwSVfz8rVStgtjBr24ThwW",
+    "https://discord.com/billing/promotions/YPkGcK7k6kVrj38egExWHPCU",
+    "https://discord.com/billing/promotions/YWnfVRJyNv2SecReNFdQMjjN",
+    "https://discord.com/billing/promotions/YFqBC8rCtzK5SdSSy4qVjXyX",
+    "https://discord.com/billing/promotions/YNWYjfsehsfaA9K2gkvHnfPP",
+    "https://discord.com/billing/promotions/WwKWffnCUsCA2nhsnxjX5zWd",
+    "https://discord.com/billing/promotions/WknFYm92GceJrsDKRAeaDtHR",
+    "https://discord.com/billing/promotions/YEECqM9SfwFpv34SMx3B3yT9"
+   ]
+  }
+ ],
+ "admins": [
+  "963878764851384351",
+  "987461126692409434",
+  "1233715546181079045",
+  "1233715546181079045",
+  "1233715546181079045"
+ ],
+ "ch": "1244647158137753631",
+ "notif": "448597666658779146",
+ "blacklist": [],
+ "buy": "1244633549819219968",
+ "status": "open"
+}
